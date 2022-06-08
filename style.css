@@ -91,6 +91,11 @@ p {
   left: calc(50% - 50px);
 }
 
+/* Am iesit stramb in poza asta, asa ca am rotit-o putin */
+#paul-cristian {
+  transform: rotate(7deg);
+}
+
 .custom-card .avatar {
   width: 100%;
   height: auto;
